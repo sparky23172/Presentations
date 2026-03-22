@@ -9,8 +9,9 @@ Information from the presentations that I have given!
   - Guardians of Cybersecurity: Deploying IoT devices via Drones and Dropboxes / Bringing Watch Dog 2 Life (Using Drones and Arm Devices to Augment Red Team Engagements)
     - Hack Space Con 2024: No video
     - BSides Vancouver 2024: No video
-    - GrrCon 2024: No video
+    - RSA Conference Podcast: https://www.rsaconference.com/library/podcast/2024-guardians-of-cybersecurity
     - **Keynote Speaker** SecretCon 2024: https://www.youtube.com/watch?v=PtIqvmTx9HQ
+    - GrrCon 2024: No video
    
   - Weaponizing Drones and Where To Find Them
     - Skytalks 2024: No video
